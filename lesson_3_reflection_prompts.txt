@@ -30,5 +30,6 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+	
+	New/experimental feature mainly. Master is too linear for me. And its fine
+	as long as there are no collaborators. I'll use branches frquently.
