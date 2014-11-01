@@ -1,0 +1,7 @@
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+Staging area is the area which can be committed to a repository. It offers us
+a chance to exactly select the files that we want to commit.
+
+
