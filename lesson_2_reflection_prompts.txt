@@ -20,3 +20,10 @@ How do the diagrams help you visualize the branch structure?
 
 All the commits and the branchoffs off the master (or a branch) are shown and
 this helps us checkout whichever branch we need.
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+By merging two branches, the other branch gets merged and is removed as a
+branch. 
