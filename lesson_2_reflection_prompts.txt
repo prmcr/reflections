@@ -27,3 +27,10 @@ the diagram the way we do?
 
 By merging two branches, the other branch gets merged and is removed as a
 branch. 
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+The pros include saving time and effort whereas the cons include erroneous 
+merging leading to unintended behaviour.
