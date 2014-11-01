@@ -4,4 +4,19 @@ repository? What value do you think it offers?
 Staging area is the area which can be committed to a repository. It offers us
 a chance to exactly select the files that we want to commit.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
 
+Add only those files that are part of the logical change to the staging area
+and commit them before repeating the steps for each logical change.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+For experimental features or even to make a copy without effecting the
+original master.
+
+How do the diagrams help you visualize the branch structure?
+
+All the commits and the branchoffs off the master (or a branch) are shown and
+this helps us checkout whichever branch we need.
